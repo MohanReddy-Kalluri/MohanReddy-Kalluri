@@ -55,4 +55,28 @@ Here are some highlighted projects I’ve developed. Replace these placeholders 
 
 ---
 
+
+<!-- ════════ HERO BANNER ════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohan%20Reddy-Kalluri&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20.NET%20%C2%B7%20React%20%C2%B7%20SQL&descSize=18&descAlignY=62" />
+</div>
+
+<!-- ════════ LINKS ════════ -->
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MohanReddy-Kalluri&color=2196F3&style=flat-square&label=Visitors" />
+</p>
+
+<!-- ════════ INTRO ════════ -->
+
+```bash
+$ whoami
+> mohan_reddy_kalluri — builder, problem-solver, innovator
+> currently practicing full-stack development with .NET, React, and SQL
+> and refining scalable software solutions end-to-end
+
+
+
 > “Full-stack developer bridging backend and frontend, crafting applications with .NET Core, React, and SQL, driven by curiosity and a hands-on approach—building, breaking, and refining systems until they deliver clean, efficient, and impactful solutions.”
