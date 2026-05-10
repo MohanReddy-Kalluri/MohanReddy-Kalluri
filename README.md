@@ -66,3 +66,8 @@ Here are some highlighted projects I’ve developed. Replace these placeholders 
 ---
 
 > “Full-stack developer bridging backend and frontend, crafting applications with .NET Core, React, and SQL, driven by curiosity and a hands-on approach—building, breaking, and refining systems until they deliver clean, efficient, and impactful solutions.”
+
+<!-- ════════ FOOTER ════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+</div>
