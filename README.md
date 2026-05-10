@@ -5,8 +5,8 @@
 
 <!-- ════════ LINKS ════════ -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohan-reddy-k-v-b6237a1a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kallurim50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://yourportfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=MohanReddy-Kalluri&color=2196F3&style=flat-square&label=Visitors" />
 </p>
@@ -59,7 +59,7 @@ Here are some highlighted projects I’ve developed. Replace these placeholders 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/mohan-reddy-k-v-b6237a1a8)  
+- [LinkedIn](https://www.linkedin.com/in/mohan-reddy-k-v-b6237a1a8/)  
 - [Email](mailto:kallurim50@gmail.com)  
 - [Portfolio](https://yourportfolio.github.io)
 
